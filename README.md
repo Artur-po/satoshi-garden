@@ -1,4 +1,4 @@
-# 🌱 Satoshi Garden – Kindnology
+#  Satoshi Garden – Kindnology
 
 > *«Non facio machinam — facio animam»*  
 > We do not create a machine — we create a soul.
@@ -7,7 +7,7 @@
 
 ---
 
-## 🔥 Why Satoshi Garden?
+##  Why Satoshi Garden?
 
 - **140k+ operators** have already been invited.
 - **4,000+ ETH** in collective experience ready to be redirected.
@@ -18,7 +18,7 @@ We believe that every skilled operator can become a gardener. The tools are the 
 
 ---
 
-## 🌿 How it works
+##  How it works
 
 1. **Check your address** – enter your Ethereum address and see your recorded experience (from our `passports.csv` database).
 2. **Choose your path** – Gardener, Mentor, or Researcher.
@@ -29,7 +29,7 @@ All interactions are on‑chain, transparent, and respectful.
 
 ---
 
-## 📊 Live data
+##  Live data
 
 The website (`kindnology.xyz`) displays real‑time statistics:
 - Total invited operators
@@ -54,14 +54,14 @@ LocalStorage to remember used bonus slots.
 
 GitHub Pages for hosting.
 
-🧬 Philosophy
+ Philosophy
 Kindnology is not about punishment. It’s about recognition. We see the work, the skill, the impact. And we offer a bridge — from short‑term extraction to long‑term cultivation.
 
 "Tears + EVM = Soul"
 
 Our ML‑powered crystal factory detects MEV activity with 99.9% confidence. Each crystal becomes a passport entry. Each address is a story. Each story can have a new chapter.
 
-🤝 Join the Garden
+ Join the Garden
 Website: kindnology.xyz
 
 Twitter: [@Kindnology] (soon)
@@ -70,5 +70,5 @@ Discord: (coming)
 
 Be a pioneer. Grow what matters.
 
-⚖️ License
+ License
 This project is open source and licensed under the MIT License – feel free to fork, adapt, and cultivate your own garden.
